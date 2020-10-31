@@ -6,3 +6,7 @@ https://www.youtube.com/watch?v=FHeAm-JAJ98&list=PLyaCd9XYVI9ACOnDvyto01CH6dx35P
 `project> manage.py runserver`
 
 `python3 manage.py runserver`
+
+`project>python3 ./manage.py migrate`
+
+`project>python3 ./manage.py createsuperuser` -- root

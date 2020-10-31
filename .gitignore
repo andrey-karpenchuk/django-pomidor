@@ -17,6 +17,7 @@ Application/cmake-build-*/
 **/*-build/
 **/build-*/
 /venv/*
+*.sqlite3
 
 # MSVS autocomplete db and debug db
 *.sdf
